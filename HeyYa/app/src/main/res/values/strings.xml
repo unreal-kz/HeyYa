@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HeyYa</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtViewSearch">This is Search Page</string>
+    <string name="txtViewContact">This is Contact Page</string>
+    <string name="txtViewPhoto">This is Photo Page</string>
+    <string name="txtViewVideo">This is Video Page</string>
+    <string name="contacts_text_view">My Contacts</string>
+    <string-array name="mapTypes">
+        <item>MAP_TYPE_NONE</item>
+        <item>MAP_TYPE_HYBRID</item>
+        <item>MAP_TYPE_SATELLITE</item>
+        <item>MAP_TYPE_NORMAL</item>
+        <item>MAP_TYPE_TERRAIN</item>
+    </string-array>
+</resources>
